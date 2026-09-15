@@ -1,0 +1,29 @@
+# ==========================================
+# archivos ejecutables de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Entornos Virtuales
+# ==========================================
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Archivos de configuración de IDEs y Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Archivos del sistema operativo
+# ==========================================
+.DS_Store
+Thumbs.db
