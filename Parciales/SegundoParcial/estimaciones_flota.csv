@@ -1,0 +1,8 @@
+patente,ciudades,km_totales,tiempo_total_horas,combustible_suficiente
+AA123BB,Buenos Aires -> Rosario -> Cordoba -> Mendoza,1300.0,19.25,False
+AA123BB,Buenos Aires -> Rosario -> Cordoba -> Mendoza,1300.0,19.25,False
+AA123BB,Buenos Aires -> Mar del Plata,400.0,6.0,True
+AA123BB,Buenos Aires -> Cordoba,700.0,9.75,False
+AA123BB,Buenos Aires -> Rosario -> Cordoba -> Mendoza,1300.0,19.25,False
+CC789DD,Cordoba -> Mendoza,600.0,7.67,True
+CC789DD,Cordoba -> Rosario -> Buenos Aires -> Mar del Plata,1100.0,15.22,False
