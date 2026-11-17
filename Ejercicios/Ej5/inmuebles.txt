@@ -1,0 +1,2 @@
+1|Casa|Av. Siempreviva|1200|pompeya|12000.0|ARS|Disponible
+2|Departamento|lynch|222|parque patricios|300000.0|ARS|Disponible

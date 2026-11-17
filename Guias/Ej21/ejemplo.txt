@@ -1,0 +1,2 @@
+Línea 1: Hola, mundo.
+Línea 2: Aprendiendo manejo de archivos en Python.
